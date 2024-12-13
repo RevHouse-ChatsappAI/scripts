@@ -5,6 +5,6 @@
   
   // Inicializa el widget del Chatbox con el ID de tu agente
   const widget = await Chatbox.default.initBubble({
-    agentId: 'cm2donrie000kof8kd77au0w4'
+    agentId: 'cm38useru000khc0xs4amujlj'
   });
 })();
